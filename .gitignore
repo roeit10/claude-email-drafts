@@ -1,0 +1,8 @@
+# קבצי הקונטקסט של המשתמש — פרטיים, לא לריפו
+business-context.md
+email-settings.md
+tone.md
+.drafts-ledger.json
+
+.DS_Store
+_testrun/
